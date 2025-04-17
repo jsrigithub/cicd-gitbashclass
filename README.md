@@ -1,2 +1,2 @@
-# cicd-gitbashclass
-CICD Git+Bash class
+# python-django
+Python web app
